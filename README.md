@@ -1,6 +1,6 @@
 # 201410003
 🙋 Vini Arifiani Rohmat
 
-👩‍💻 Informatika
+💻 Informatika
 
 ✉️ viniarifianir16@gmail.com
