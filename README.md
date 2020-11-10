@@ -1,5 +1,5 @@
 # 201410003
-🙋 Vini Arifiani Rohmat
+__Vini Arifiani Rohmat__
 
 💻 Informatika
 
