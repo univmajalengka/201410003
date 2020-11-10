@@ -3,4 +3,4 @@
 
 💻 Informatika
 
-✉️ viniarifianir16@gmail.com
+✉️ *viniarifianir16@gmail.com*
