@@ -63,8 +63,8 @@ int main()
 	else {
 		cout<<"Menu tidak ada!"<<endl;
 		system("pause");
-        system("cls");
-        goto menu;
+        	system("cls");
+        	goto menu;
 	}
 	return false;	
 }
