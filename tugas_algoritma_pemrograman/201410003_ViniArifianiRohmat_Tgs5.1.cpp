@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
 	int j,m,d,td;
+	cout<<"Konversi jam, menit dan detik ke total detik"<<endl;
+	cout<<"--------------------------------------------"<<endl;
 	cout<<"Masukan Jam : ";
 	cin>>j;
 	cout<<"Masukan Menit : ";
