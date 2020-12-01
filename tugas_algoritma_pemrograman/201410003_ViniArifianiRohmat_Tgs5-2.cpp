@@ -4,6 +4,8 @@ using namespace std;
 
 int main(){
 	int td,j,m,d,sm;
+	cout<<"Konversi total detik ke jam, menit dan detik"<<endl;
+	cout<<"--------------------------------------------"<<endl;
 	cout<<"Masukan Total Detik : ";
 	cin>>td;
 	j = td/3600;
